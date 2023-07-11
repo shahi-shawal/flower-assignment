@@ -229,6 +229,39 @@ p.banner-peragraph {
     }
 /* end instagram section */
 
+/* start story section */
+.story-section {
+        margin-bottom: 80px;
+    }
+
+.story-item {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+    }
+
+
+    .story-part {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background: rgba(18, 209, 209, 0.1);
+        height: 627px;
+    }
+    .story-heading {
+        color: #272727;
+        text-align: center;
+        font-size: 40px;
+        font-weight: 800;
+        padding: 10px;
+        margin-top: -108px;
+    }
+ .story-peragraph {
+        text-align: center;
+        padding: 8px 20px 35px 40px;
+    }
 /* start subscribe section */
 
 .subscribe-section{
